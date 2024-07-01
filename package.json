@@ -13,8 +13,10 @@
     "@emotion/styled": "latest",
     "@mui/icons-material": "next",
     "@mui/material": "next",
+    "axios": "^1.7.2",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "react-router-dom": "^6.24.0"
   },
   "devDependencies": {
     "@types/react": "latest",
